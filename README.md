@@ -1,51 +1,47 @@
-<h1 align="center">Hi 👋, I'm Hrisikesh Kashyap</h1>
-<h3 align="center">Passionate about Competitive Programming, Machine Learning & Full-stack Development</h3>
+<h1 align="center">Hrisikesh Kashyap</h1>
+<h3 align="center">ECE @ NIT Silchar | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=4th-year+ECE+undergrad+@+NIT+Silchar;Ex-Accenture+Intern;Building+Distributed+Systems;ML+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:hrisikesh.nits@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ## 🧭 About Me
-* 🎓 **Education:** 4th-year B.Tech (ECE) at **NIT Silchar** (2023–2027)
-* 💼 **Experience:** Ex AEH Intern at **Accenture** — ServiceNow workflow automation
-* 🤖 **Community:** Core Member, NITS Embedded Robotics & Development Society
-* 🧠 **Interests:** Machine Learning, distributed systems, cloud architecture, and modern HTML semantic markup (like `<time>` and media elements).
+* 🎓 4th-year B.Tech (ECE) — NIT Silchar (2023–2027)
+* 💼 Ex AEH Intern @ Accenture — ServiceNow workflow automation
+* 🤖 Core Member, NITS Embedded Robotics & Development Society
+* 🧠 Interested in ML, distributed systems & cloud architecture
 
 ## 🛠️ Tech Stack
-* **Languages:** C++, Python, JavaScript, SQL, HTML/CSS
-* **Frameworks & Web:** React.js, Node.js, Flask, Hive
-* **Data Science & ML:** Pandas, Scikit-learn, Jupyter
-* **Cloud & Tools:** Firebase Admin SDK, Cloud Firestore, nmap, Git/GitHub
+* **Languages:** C, C++, Python, JavaScript
+* **Frameworks & Frontend:** React.js, Flask
+* **Databases & Cloud:** SQL, Hive, Firebase Admin SDK, Cloud Firestore
+* **Tools & Libraries:** Pandas, Scikit-learn, Node.js, nmap
 
 ## 🚀 Featured Projects
 
-### 🔎 [ElasticRev](#) 
-*Machine Learning & Data Analytics Platform*  
-Analyzed sales and pricing data to model price elasticity via regression and gradient boosting. Simulated "what-if" pricing scenarios to determine optimal pricing strategies.  
-**Tech:** *SQL, Hive, Python, Pandas, Scikit-learn, Flask, React.js*
+### 🔎 ElasticRev — ML & Data Analytics Project
+* **Tech:** `SQL` `Hive` `Python` `Pandas` `Scikit-learn` `Flask` `React.js`
+* Analyzed sales & pricing data to model price elasticity via regression and gradient boosting, then simulated "what-if" pricing scenarios to find optimal pricing strategies.
 
-### 🌐 [Network's Lifeline](#)
-*Distributed Monitoring System*  
-A native LAN agent that discovers and monitors devices via parallel ICMP sweeps. Streams telemetry to Firestore to provide a real-time dashboard for device health, RTT, and offline alerts.  
-**Tech:** *Node.js, nmap, Firebase Admin SDK, Cloud Firestore*
+### 🌐 Network's Lifeline — Distributed Monitoring System
+* **Tech:** `Node.js` `nmap` `Firebase Admin SDK` `Cloud Firestore`
+* Native LAN agent that discovers & monitors devices via parallel ICMP sweeps, streaming telemetry to Firestore with a real-time dashboard for device health, RTT, and offline alerts.
 
-### 🤖 [Self-Balancing-Bot](#)
-*Embedded Systems*  
-Developed a C++ based self-balancing robot incorporating PID controllers and sensor integration.
+*(Also exploring embedded systems with projects like **Self-Balancing-Bot** and web development via **Yelp-Camp**)*
 
 ## 🏆 Honors & Achievements
-| Achievement | Detail |
-| :--- | :--- |
-| **Codeforces** | Pupil · 650+ DSA problems solved |
-| **LeetCode Weekly 475** | Global Rank #1003 |
-| **Adobe India Hackathon 2025** | Top 1.5% Nationwide |
-| **Tecnoesis (NIT Silchar)** | 1st Place — Robowar |
+| 🌍 LeetCode | 🇮🇳 Adobe | 🥇 Tecnoesis | 💻 Codeforces |
+| :---: | :---: | :---: | :---: |
+| **#1003 Global** <br> Weekly 475 | **Top 1.5%** <br> India Hackathon 2025 | **1st Place** <br> Robowar | **Pupil** <br> 650+ DSA |
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrisikeshbegin&show_icons=true&theme=radium" alt="Hrisikesh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hrisikeshbegin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrisikeshbegin&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## 📫 Let's Connect
-* **Email:** hrisikesh.nits@gmail.com
-* **Pronouns:** he/him
+📫 **Reach out:** [hrisikesh.nits@gmail.com](mailto:hrisikesh.nits@gmail.com)
