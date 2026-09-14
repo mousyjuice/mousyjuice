@@ -1,14 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hrisikesh%20Kashyap&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=ECE%20@%20NIT%20Silchar&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Hrisikesh%20Kashyap&fontSize=38&fontAlignY=32&fontColor=ffffff&animation=fadeIn&desc=ECE%20@%20NIT%20Silchar&descAlignY=55&descSize=17" width="100%"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/hrisikesh-kashyap/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://leetcode.com/u/hrisikesh_void/">
   <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
