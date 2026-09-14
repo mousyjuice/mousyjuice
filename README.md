@@ -2,9 +2,8 @@
 <h3 align="center">ECE @ NIT Silchar | Competitive Programmer</h3>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/hrisikesh-kashyap/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/hrisikesh_void/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:hrisikesh.nits@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -15,22 +14,20 @@
 * 🧠 Interested in ML, distributed systems & cloud architecture
 
 ## 🛠️ Tech Stack
-* **Languages:** C, C++, Python, JavaScript
-* **Frameworks & Frontend:** React.js, Flask
-* **Databases & Cloud:** SQL, Hive, Firebase Admin SDK, Cloud Firestore
-* **Tools & Libraries:** Pandas, Scikit-learn, Node.js, nmap
+* **Languages:** Python, C, C++, Java, JavaScript (ES6+), SQL, Bash
+* **Frameworks & Web:** React.js, Next.js, Node.js & Express, Flask
+* **Data Science & ML:** TensorFlow, PyTorch, Pandas, scikit-learn
+* **Cloud & Systems:** AWS, Cloud Firestore, Hive, Linux, Docker, Git
 
 ## 🚀 Featured Projects
 
-### 🔎 ElasticRev — ML & Data Analytics Project
+### 🔎 [ElasticRev](https://github.com/Uddhav-Saikia/ElasticRev) — ML & Data Analytics Project | [Live Demo](https://elasticrev-api.onrender.com/)
 * **Tech:** `SQL` `Hive` `Python` `Pandas` `Scikit-learn` `Flask` `React.js`
 * Analyzed sales & pricing data to model price elasticity via regression and gradient boosting, then simulated "what-if" pricing scenarios to find optimal pricing strategies.
 
-### 🌐 Network's Lifeline — Distributed Monitoring System
+### 🌐 [Network's Lifeline](https://github.com/Yesh287/Network-s-Lifeline) — Distributed Monitoring System
 * **Tech:** `Node.js` `nmap` `Firebase Admin SDK` `Cloud Firestore`
 * Native LAN agent that discovers & monitors devices via parallel ICMP sweeps, streaming telemetry to Firestore with a real-time dashboard for device health, RTT, and offline alerts.
-
-*(Also exploring embedded systems with projects like **Self-Balancing-Bot** and web development via **Yelp-Camp**)*
 
 ## 🏆 Honors & Achievements
 | 🌍 LeetCode | 🇮🇳 Adobe | 🥇 Tecnoesis | 💻 Codeforces |
